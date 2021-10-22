@@ -17,6 +17,10 @@ The following commands have to be executed inside each respective folder
 
 > npm start
 
+To access the CMS please use the following
+- dfordynasty@yopmail.com
+- yE.J5XAR?y3Hf$3
+
 Below is a video demostration of the CMS managed website
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/FKo7H4A07bM/0.jpg)](https://www.youtube.com/watch?v=FKo7H4A07bM)
