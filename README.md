@@ -7,11 +7,14 @@ The following commands have to be executed inside each respective folder
 
 ## Front-end
 > npm install
+
 > npm run generate
+
 > npm start
 
 ## Back-end
 > npm install
+
 > npm start
 
 Below is a video demostration of the CMS managed website
