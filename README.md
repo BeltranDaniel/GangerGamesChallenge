@@ -1,6 +1,7 @@
 # GangerGamesChallenge
 
-This PoC was done using Nuxtjs for the front-end application and Strapi for the backend. In order to execute the app, is necessary to have Node.js installed.
+This PoC was done using Nuxtjs for the front-end application and Strapi for the backend. This PoC is based on a template and only represents a prototype of the end result.
+In order to execute the app, is necessary to have Node.js installed.
 
 The following commands have to be executed inside each respective folder
 
